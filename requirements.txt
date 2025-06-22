@@ -1,0 +1,2 @@
+regex>=1.0.0
+tldextract>=1.0.0
